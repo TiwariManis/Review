@@ -1,6 +1,6 @@
 # Flipkart web scraper
 
-This is Flipkart `Product Web Scraper build` using scrapy module of `python'
+This is Flipkart `Product Web Scraper build` using scrapy module of `python`
 
 ## Features
 

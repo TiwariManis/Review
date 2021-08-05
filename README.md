@@ -10,6 +10,6 @@ It extracts the following:
 * Product Rating
 * Customer Name
 * Product Review comments
-* Review Header
+* Review Headeing
 
 It will create `data.ipynb` file inside the main folder folder containing all the scraped data in `ipynb` format

@@ -1,6 +1,6 @@
 # Flipkart web scraper
 
-This is Flipkart `Product Web Scraper build` using scrapy module of `python'.
+This is Flipkart `Product Web Scraper build` using scrapy module of `python'
 
 ## Features
 
@@ -12,4 +12,4 @@ It extracts the following:
 * Product Review comments
 * Review Header
 
-It will create `data.ipynb` file inside the `data` folder containing all the scraped data in `ipynb` format
+It will create `data.ipynb` file inside the main folder folder containing all the scraped data in `ipynb` format
